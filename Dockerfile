@@ -28,4 +28,4 @@ RUN dotnet build
 # self signed ssl
 
 # run Covenant C2
-ENTRYPOINT ["dotnet", "/app/Covenant/bin/Debug/netcoreapp3.1/Covenant.dll"]1
+ENTRYPOINT ["dotnet", "/app/Covenant/bin/Debug/netcoreapp3.1/Covenant.dll"]
